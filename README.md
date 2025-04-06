@@ -12,7 +12,7 @@ AI Chronicles: From Novice to Ninja -->
 
 Whether you're a **beginner** or an **experienced practitioner**, this repo helps you **learn by doing**—implementing algorithms, training models, and experimenting with real-world datasets.  
 
-🔗 **Read the full series on Medium:** [*TensorTales: AI/ML Explained with Code*](#)  
+🔗 **Read the full series on Medium:** [*TensorTales - AI Chronicles: From Novice to Ninja*](#)  
 
 ---
 
